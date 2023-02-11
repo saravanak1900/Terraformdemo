@@ -1,2 +1,2 @@
 ### Getting started with Terraform
-## Install Terraform.
+#### Install Terraform.
